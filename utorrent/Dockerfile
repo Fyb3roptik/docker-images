@@ -1,4 +1,4 @@
-FROM fyb3roptik/utorrent-freenas/:latest
+FROM fyb3roptik/utorrent-freenas:latest
 LABEL org.freenas.interactive="false" 					\
       org.freenas.version="1" 						\
       org.freenas.upgradeable="true" 					\
