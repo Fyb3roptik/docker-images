@@ -1,5 +1,5 @@
 [appurl]: http://www.utorrent.com/
-[![uTorrent](http://www.utorrent.com/img/logos/utorrent.png)][appurl]
+[![uTorrent](http://jggmkz4ba1-flywheel.netdna-ssl.com/wp-content/images_posts/2016/06/myce-utorrent-logo.jpg)][appurl]
 
 ## Usage
 
