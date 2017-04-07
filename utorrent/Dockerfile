@@ -1,6 +1,6 @@
 FROM fyb3roptik/utorrent-freenas:latest
 LABEL org.freenas.interactive="false" 					\
-      org.freenas.version="3" 						\
+      org.freenas.version="4" 						\
       org.freenas.upgradeable="true" 					\
       org.freenas.expose-ports-at-host="true" 				\
       org.freenas.autostart="true" 					\
